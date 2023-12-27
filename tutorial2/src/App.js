@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <Card/>
       </header>
       <Card/>
     </div>
