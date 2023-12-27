@@ -19,13 +19,13 @@ function App() {
         >
           Learn React
         </a>
-
-        <Card/>
-        <MessageComponents/>
-<h2>From task 3 changes</h2>
+        <h2>Task 4 is there</h2>
+        <Card />
+        <MessageComponents />
+        <h2>From task 3 changes</h2>
       </header>
-<MessageComponents/>
-      <Card/>
+      <MessageComponents />
+      <Card />
     </div>
   );
 }
